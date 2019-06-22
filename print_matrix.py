@@ -23,6 +23,7 @@ for i in range(M):     # A for loop for row entries
   
 
 # For printing the matrix 
+print("Entry matrix:")
 for i in range(M): 
   for j in range(M): 
     print(matrix[i][j], end = " ") 
